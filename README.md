@@ -1,8 +1,11 @@
+<p style="font-size:16px; color:#02C7E8;">
 Boundary Gradient Consistency Loss
+</p>
 
 Paper : Improvement of a Segmentation Network for Character Stroke Extraction 
         from Metal Movable Type Printed Documents
 DOI   : https://doi.org/10.5573/ieie.2023.60.12.31
+
 
 This loss function is designed to encourage smooth and consistent boundaries of the foreground
  (especially text regions) in segmentation tasks.
