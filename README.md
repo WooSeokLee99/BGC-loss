@@ -1,7 +1,7 @@
 ## Boundary Gradient Consistency Loss
 
-Paper : Improvement of a Segmentation Network for Character Stroke Extraction 
-        from Metal Movable Type Printed Documents
+Paper : Improvement of a Segmentation Network for Character Stroke Extraction from Metal Movable Type Printed Documents
+
 DOI   : https://doi.org/10.5573/ieie.2023.60.12.31
 
 
