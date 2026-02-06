@@ -24,7 +24,7 @@ Although average pooling or Gaussian blur can also be used, additional preproces
 ## Dataset
 
 <img src="assets/dataset.png" width="100%" />
-(a) Input image, 
+Figure: (a) Input image, 
 (a1) Outer line, 
 (a2) Saperating line(Vertical), 
 (b) Combo loss (Dice coefficient loss + Cross entropy loss) Result
@@ -49,7 +49,7 @@ This method lead stroke smoother.
 ## Results by pooling parameter
 
 <img src="assets/resert-param.png" width="50%" />
-(a) Input, 
+Figure: (a) Input, 
 (b) Dice + BGC(1), 
 (c) Dice + BGC(2), 
 (d) Dice + BGC(4), 
@@ -62,7 +62,7 @@ Results with various loss functions
 </p>
 
 <img src="assets/resert-all.png" width="100%" />
-(a) Cross Entropy, 
+Figure: (a) Cross Entropy, 
 (b) Dice, 
 (c) Dice + Total Variation, 
 (d) Dice + Cross Entropy, 
