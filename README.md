@@ -17,9 +17,9 @@ Although average pooling or Gaussian blur can also be used, additional preproces
 ## Dataset
 
 <img src="assets/dataset.png" width="100%" />
-(a) Input image,<br>
-(a1) Outer line,<br>
-(a2) Saperating line(Vertical),<br>
+(a) Input image<br>
+(a1) Outer line<br>
+(a2) Saperating line(Vertical)<br>
 (b) Combo loss (Dice coefficient loss + Cross entropy loss)<br>
 <br>
 The dataset we used is scanned Korean old printed book (16-17th century).<br>
@@ -45,20 +45,20 @@ This method lead stroke smoother.
 
 <img src="assets/resert-param.png" width="50%" />
 Results with various loss functions<br>
-(a) Input, <br>
-(b) Dice + BGC(1), <br>
-(c) Dice + BGC(2), <br>
-(d) Dice + BGC(4), <br>
-(e) Dice + BGC(8), <br>
+(a) Input<br>
+(b) Dice + BGC(1)<br>
+(c) Dice + BGC(2)<br>
+(d) Dice + BGC(4)<br>
+(e) Dice + BGC(8)<br>
 (f) Dice + BGC(16)<br>
 <br>
 <img src="assets/resert-all.png" width="100%" />
-(a) Cross Entropy, <br>
-(b) Dice, <br>
-(c) Dice + Total Variation, <br>
-(d) Dice + Cross Entropy, <br>
-(e) Cross Entropy + Focal, <br>
-(f) Dice + Focal, <br>
+(a) Cross Entropy<br>
+(b) Dice<br>
+(c) Dice + Total Variation<br>
+(d) Dice + Cross Entropy<br>
+(e) Cross Entropy + Focal<br>
+(f) Dice + Focal<br>
 (g) Dice + Gradient Difference<br>
 (h) Dice + Cross Entropy + Total Variation<br>
 (i) Dice + Cross Entropy + Total Variation + Focal<br>
